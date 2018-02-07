@@ -9,3 +9,7 @@
 'Hello Command Line'
 
 'Hello age' 
+
+'hi'
+
+'HIHI'
