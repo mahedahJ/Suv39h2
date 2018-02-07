@@ -4,4 +4,12 @@
 
 'Hello Manaal' 
 
-'Hello Axel'
+'Hello Axel bye'
+
+'Hello Command Line'
+
+'Hello age' 
+
+'hi'
+
+'HIHI'
